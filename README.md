@@ -55,13 +55,13 @@ Also while you're on my page, feel free to check out the AWS Encyclopedia, I hav
 
 | REPO | README |
 | ------ | ------ |
-| Tech Challenge HelloPico Repo | [https://github.com/cschultz82/hellopico/blob/master/README.md][PlDb] |
-| AWS Encyclopedia | [https://github.com/cschultz82/aws_encyclopedia/blob/master/README.md][PlGh] |
+| Tech Challenge HelloPico Repo | [https://github.com/cschultz82/hellopico][PlDb] |
+| AWS Encyclopedia | [https://github.com/cschultz82/aws_encyclopedia][PlGh] |
 
 
 
 
   
  
-   [PlDb]: <https://github.com/cschultz82/hellopico/blob/README.md>
-   [PlGh]: <https://github.com/cschultz82/aws_encyclopedia/blob/master/README.md>
+   [PlDb]: <https://github.com/cschultz82/hellopico>
+   [PlGh]: <https://github.com/cschultz82/aws_encyclopedia>
